@@ -95,15 +95,7 @@ npm start
 
 ---
 
-## 🖼 화면 미리보기
 
-<!-- 스크린샷을 추가해 주세요. 예시:
-| 로그인 | 홈 | 커뮤니티 |
-|:---:|:---:|:---:|
-| ![login](./docs/login.png) | ![home](./docs/home.png) | ![community](./docs/community.png) |
--->
-
----
 
 ## 📝 향후 개선 예정
 
